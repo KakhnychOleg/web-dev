@@ -1,4 +1,4 @@
-# test-repository
-It`s my first test repository
+# test - desktop only project
+It`s my first test project
 
-My name is Oleg, i live in Mykolaiv. I like football. Senk`s.
+
